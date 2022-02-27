@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dreadful account of a barbarous bloody murther committed on the  body of one Mr. Cymball, at his own house, in Old Soho, on the 31st of January, 1694 ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81733</idno>
+            <idno type="STC">Wing D2148A</idno>
+            <idno type="STC">ESTC R42484</idno>
+            <idno type="EEBO-CITATION">36282083</idno>
+            <idno type="OCLC">ocm 36282083</idno>
+            <idno type="VID">150036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2226:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dreadful account of a barbarous bloody murther committed on the  body of one Mr. Cymball, at his own house, in Old Soho, on the 31st of January, 1694 ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>London [sic] printed for B. Lyford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>Imperfect: stained, and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150036:1" rendition="simple:additions"/>
+            <head>A Dreadful Account of a <hi>Barbarous Bloody Murther:</hi> Committed on the Body of one Mr. Cymball, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t his own Houſe, in <hi>Old Soho;</hi> On the 31ſt. of <hi>January,</hi> 1694. by a Perſon, who under pretence of coming to pay him a Viſit, and after having been very well Treated, Surprizingly gave him divers Mortal Wounds; in the preſence of his Wife and Siſters, (of which he immediately Dyed,) and then made his Eſcape: The whole Proceeding on this Bloody Act, being very Cruel and Inhumane; As will ap<g ref="char:EOLhyphen"/>pear in the Relation of it.</head>
+            <argument>
+               <p>
+                  <date>
+                     <add>1. Febr. 1694/5</add>
+                  </date> Licenſed according to Order.</p>
+            </argument>
+            <p>SUCH Is the wicked Inclinations, and Depravity of ſome Men's Nature, that the Bloody mindedneſs of divers Perſons in their Miſ<g ref="char:EOLhyphen"/>chiefs, and Tragical dealings, even Startle Underſtanding Men in their thoughts, and Conſideration of a Repoſing a Truſt, as not being able <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o look into the Intentions of ſuch as Guild over a plauſible Friendſhip, with Flattering Proteſtations; whilſt Fraud, or the Rankeſt of Malice, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike a Poiſonous Serpent Lurks under their feighned Smiles. Such was <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Misfortune of this Gentleman, who inſtead of Entertaining a Friend, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urprizingly met with a Death, he little ſuſpected from ſuch a Hand.</p>
+            <p>This Gentleman (of whoſe Name we are yet Ignorant) on the 31ſt. of <hi>January,</hi> coming to Viſit Mr. <hi>Cymball,</hi> at his Houſe in <hi>Old Soho;</hi> and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing known to him, he was welcomed, with all becoming Civility; Ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmodated with Wine and other Treatments, ſo that in a kind of a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erryment ſome Hours paſſed till it grew very Late. The Concern of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Meeting ſeems to be about Buſineſs, as appears by a Writing, ſaid to be Signed by the Deceaſed; and the Common Diſcourſe is, That it was a Will, but as to that particular we determine not, without better information.</p>
+            <p>But to come nearer, and open the Tragical Scene; whether about affairs of Buſineſs, ſome Heats might ariſe that might carry the Edg of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atal Miſchief in them; or otherwiſe is not greatly Material to our En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uiry, ſo we leave it to a more Judicial Scrutiny, and proceed to Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of Fact.</p>
+            <pb facs="tcp:150036:2"/>
+            <p>After the Watch had paſſed by the Door of this Gentleman, and were not very far diſtant from it; ſome People that were Neighbour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heard a Confuſed Voice, ſuppoſed to be that of the Mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther'd Party<g ref="char:punc">▪</g> and the Women preſent Crying, <hi>Murther, Murther,</hi> and Implorin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Help.</p>
+            <p>The Watch upon this were Alarm'd, but before they could com<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up, or Enter the Houſe, Mr. <hi>Cymball,</hi> too Fatal Gueſt was Flea'd and left him Gaſping his Laſt: His Life haſtily paſſing away, throug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many Mortal Wounds; which nothing but a Cruel, or Inraged Han<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could have ſo often Repeated; when a far leſs Number in all proba<g ref="char:EOLhyphen"/>bility would have ſent him to his Grave, and there needed not ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many Gaps to let in Death. Therefore to Enumerate them ſhows th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inhumanity of the Inflictor of them.</p>
+            <p>Weltering in his Blood, they could not be particularly diſtinguiſhed but the Body being Cleanſed from it, and Expoſed to View, His Righ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shoulder was found to have a Wound, that ſeemed to be torn with th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sword, as if a piece of Fleſh was Cut out. Two Wounds were made in his Breaſt, one on his Right Side; his Left Arm pierced almoſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through: Another Wound he had on the Left Side his Left Hand<g ref="char:punc">▪</g> Run through his Right Hand; ſuppoſed in Defending his Body, or Ex<g ref="char:EOLhyphen"/>tended to Implore Mercy from his pretended Friend, but now Merci<g ref="char:EOLhyphen"/>leſs Enemy was Cut between the Finger and Thumb, and otherways very much mangled; his Chin received a part of Dire Execution, and amidſt theſe many Wounds he Breathed his Laſt; and was Expoſed as a Miſſerable Spectacle of Cruel uſage, the following Day to the pity<g ref="char:EOLhyphen"/>ing Spectators; whoſe Tears at ſuch an Object of Compaſſion could hardly be Reſtrained.</p>
+            <p>Upon this, thoſe that were preſent. <hi>Viz.</hi> The Women (the Party who is held Actually to do it, being Eſcaped, as far as we can hitherto have any Account of him) are ſecured in order to their further Exami<g ref="char:EOLhyphen"/>nation before the <hi>Corroners</hi> Inqueſt; or what other Matters may be Objected to them in this Matter: Nor is it doubted but the Grand Agreſſor, may in a little time be brought to Anſwer for ſo Monſterous a Crime of Late, without Parrallel or Precedent.</p>
+            <p>Some ſay, he has ſent by an unknown Hand, a Letter to the New Widow, to Condole the Loſs of Her Husband, and Expreſs his Sorrow<g ref="char:punc">▪</g> but whether ſo or no, ſo Great a Guilt deſerves Floods of unfeighned Tears, to Attone Heaven's Impendent Vengeance.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> London Printed for <hi>B. Lyford.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
